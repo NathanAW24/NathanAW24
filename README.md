@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there
 
 I am a first year Computer Science and Design (CSD) student at the Singapore University of Technology and Design (SUTD). I have a keen interest in applying Data Analytics to formulate solutions to various business problems.
 
