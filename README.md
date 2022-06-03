@@ -1,6 +1,6 @@
 ### Hello there
 
-I am a first year Computer Science and Design (CSD) student at the Singapore University of Technology and Design (SUTD). I have a keen interest in applying Data Analytics to formulate solutions to various business problems. Currently, I am looking for ideas and opportunities to build projects while learning Data Science and Machine Learning directly.
+I am a first year Computer Science and Design (CSD) student at the Singapore University of Technology and Design (SUTD). I have a keen interest in applying Data Science to formulate solutions to various business problems. Currently, I am looking for ideas and opportunities to build projects while learning Data Science and Machine Learning directly.
 
 
 Contact me through the links below!
