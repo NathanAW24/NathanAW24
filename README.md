@@ -1,4 +1,4 @@
-### Hi, I am Nathan
+### Hi, I am Nathan!
 
 I am a student-entrepreneur passionate in building software that helps people in their day-to-day lives. Creating products for the user’s convenience has been a deep desire within me. Currently, I am building an Out-of-Home advertising startup that provides ease of deployment through our web app, as well as quality targeted content to the audiences. As of now, I have experience in developing fullstack web and machine learning applications throughout my personal and university-based projects.
 
