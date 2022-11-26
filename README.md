@@ -14,4 +14,3 @@ Contact me through the links below!
 ### Statistics
 [![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanAW24)](https://github.com/NathanAW24/github-readme-stats)
 <br>
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=NathanAW24&layout=compact)](https://github.com/NathanAW24/NathanAW24)
